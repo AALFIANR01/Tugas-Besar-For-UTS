@@ -1,0 +1,11 @@
+Deskrpisi Repository :
+1. Applikasi apa?
+Aplikasi yang kita buat adalah aplikasi jasa pengiriman barang (contoh jne)
+
+2.Tim ?
+Achmad Alfian R dan M.Rifqi Afyumi
+
+3.IF D- 1127050001 & 1127050109 - Achmad Alfian R & M.Rifqi Afyumi
+
+4. Aplikasi untuk siapa?
+Bisa digunakan untuk para pedagang online yang ingin mengirimkan paket keluar kota ataupun kedalam kota.
